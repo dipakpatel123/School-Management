@@ -1,0 +1,109 @@
+body,html{
+    overflow-x: hidden;
+}
+
+*{
+
+    margin: 0;
+    padding: 0;
+    /* overflow-x: hidden; */
+}
+
+.main-header{
+    position: relative;
+
+}
+
+
+.top-header{
+    background-image: url("../src/componet/img/university_three.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 528px;
+}
+.botom-header{
+    position: absolute;
+    top: 0;
+    background: rgba(0, 0, 0, 0.7);
+    height: 100%;
+    width: 100vw;
+    
+}
+
+.main-nav{
+    display: flex;
+    width: 100vw;
+    justify-content: space-between;
+    padding: 0px 10px;
+    position: fixed;
+    background-color: gray;
+    z-index: 3;
+}
+
+ 
+
+ 
+
+ 
+
+ 
+
+ .navbar li{
+    padding:  0 50px;
+    color:#FFFFFF ;
+    font-size: 1.5rem;
+    cursor: pointer;
+    
+}
+
+ 
+
+  
+
+.header_disc{
+    position: absolute;
+    width: 100vw;
+    height: 250px;
+    top: 161px;
+    gap: 0px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0.8px;
+    text-align: center;
+    
+}
+
+
+
+
+.header_disc h3{
+    color: #FFFFFF;
+    margin-top: 33px;
+    margin-bottom: 33px;
+    font-size: 28px;
+    
+}
+.header_disc h4{
+     color: #FFFFFF;
+     font-size: 28px;
+    
+}
+
+ 
+
+.button{
+    text-align: center;
+    
+}
+
+ 
+
+.navbar{
+    display: flex;
+    width: 53vw;
+    justify-content: space-evenly;
+   }
+ 
+ 
+

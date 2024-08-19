@@ -1,0 +1,138 @@
+.Top-footer{
+    width: 100vw;
+     display: grid;
+     grid-template-columns: auto auto auto auto;
+     
+     justify-content: space-evenly;
+     padding: 55px 30px;
+      
+     background-color:#F9F9F9;
+     margin-top: 95px;
+    
+}
+
+.innerfooter1{
+    width: 286px;
+    height: 48px;
+ 
+}
+
+ .text1{
+    font-weight: 400;
+    font-size: 18px;
+    line-height:25px;
+    letter-spacing: 0.3px;
+    width: 286px;
+    /* height: 90px; */
+    }
+
+.text2{
+    font-weight: 700;
+    font-size: 18px;
+    line-height:24px;
+    letter-spacing: 0.3px;
+    width: 187px;
+    height: 24px;
+    font-weight: bold;
+}
+
+
+.foot_nav ul {
+    list-style: none;
+    padding: 0px;
+
+}
+
+.foot_nav ul{
+    margin-top: 25px;
+
+}
+.foot_nav ul li{
+    
+    font-size: 22px;
+    /* font-weight: 700; */
+    line-height: 38px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    cursor: pointer;
+    
+
+}
+
+.innerfooter2{
+
+    width: 200px;
+    height: 174px;
+    color:  #0C101A;
+    
+
+    
+    }
+
+    .innerfooter2 ul a {
+         text-decoration: none;
+        
+    }
+
+    a {
+        color: #0C101A;
+    }
+
+.innerfooter3{
+    width: 358px;
+    height: 208px;
+    color:  #0C101A;
+
+}
+.innerfooter4{
+    width: 128px;
+    height: 86px;
+    color:  #0C101A;
+ }
+ 
+ .innerfoot_header{
+    margin-bottom: 15px;
+ }
+ .icon{
+     display: flex;
+     justify-content: space-around;
+     cursor: pointer;
+     
+
+ }
+
+ .css-i4bv87-MuiSvgIcon-root {
+    font-size: 35px !important ;
+ }
+
+ .bottom-footer{
+    text-align: center;
+ }
+
+ .bottom-footer h4{
+    font-size: 25px;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  /* primery class */
+
+  .innerfoot_header{
+    width: 207px;
+  }
+
+
+
+

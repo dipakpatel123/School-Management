@@ -1,0 +1,158 @@
+@media only screen and (max-width: 1024px) {
+    
+    .register_page{
+    
+        width: 90%;
+        height: 850px !important;
+        margin: 0 auto;
+        display: flex;
+        
+    }
+    
+    .Rreg_img img{
+        height: 830px !important;
+        width: 100%;
+    }
+    
+     
+    .Rleft{
+         
+        background:#233255BA;
+        width: 40vw;
+        height: 830px !important;
+    }
+    
+    
+    .Rright{
+        
+        background: pink;
+        width: 60vw;
+        height: 830px !important;
+        
+    }
+    
+    
+    
+    .fname{
+        width: 100% !important;
+        height: 50px !important;
+        margin-top: 15px !important;
+        border: none !important;
+        padding: 10px !important;
+        border-radius: 10px !important;
+        font-size: 18px !important;
+    }
+    .lname{
+        width: 100% !important;
+        height: 50px !important;
+        margin-top: 10px !important;
+        border: none !important;
+        padding: 10px !important;
+        border-radius: 10px !important;
+        font-size: 18px !important;
+    }
+    .email{
+        width: 100% !important;
+        height: 50px !important;
+        margin-top: 10px !important;
+        border: none !important;
+        padding: 10px !important;
+        border-radius: 10px !important;
+        font-size: 18px !important;
+    }
+    .password{
+        width: 80% !important;
+        height: 50px !important;
+        margin-top: 10px !important;
+        border: none !important;
+        padding: 10px !important;
+        border-radius: 10px !important;
+        font-size: 18px !important;
+    }
+
+    .password_show{
+            display: flex;
+    }
+    .phone{
+        width: 100% !important;
+        height: 50px !important;
+        margin-top: 10px !important;
+        border: none !important;
+        padding: 10px !important;
+        border-radius: 10px !important;
+        font-size: 18px !important;
+    }
+    .token{
+        width: 100% !important;
+        height: 50px !important;
+        margin-top: 10px !important;
+        border: none !important;
+        padding: 10px !important;
+        border-radius: 10px !important;
+        font-size: 18px !important;
+    }
+
+    .contact_filed{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+     }
+
+     .dep_option{
+        
+        height: 50px !important;
+        
+     
+        padding: 10px !important;
+        font-size: 18px !important;
+    }
+
+   
+
+
+
+
+
+@media only screen and (max-width: 1024px) {
+    .fname{
+       
+        font-size: 15px !important;
+    }
+    .lname{
+        font-size: 15px !important;
+    }
+    .email{
+        font-size: 15px !important;
+    }
+    .password{
+        font-size: 15px !important;
+    }
+
+    .password_show{
+            display: flex;
+    }
+    .phone{
+        font-size: 15px !important;
+    }
+    .token{
+        font-size: 15px !important;
+    }
+
+    .contact_filed{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+     }
+
+     .dep_option{
+        
+        font-size: 15px !important;
+    }
+
+    button:not(:disabled) {
+        /* font-size: 1rem!important; */
+        height: 50px !important;
+
+        
+    }
+}}

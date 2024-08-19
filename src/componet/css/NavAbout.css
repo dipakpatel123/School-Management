@@ -1,0 +1,56 @@
+ .blank_div{
+   width: 90%;
+   height: 700px; 
+   margin: 0 auto;
+   background-color: #ffffff;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+    
+ }
+
+ .about_info{
+   margin-top: 0px;
+    height: 480px;
+    width: 1100px;
+    /* border-radius: 50px 50px 0 0; */
+    border: 1px solid gray;
+    /* border-top: #ffffff; */
+    opacity: 0px;
+     
+
+ }
+ 
+ .about_title{
+    background-color:#2BA7E2;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 3px ;
+    opacity: 0px;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 32.68px;
+    letter-spacing: 0.30000001192092896px;
+
+    
+ }
+
+ .About_disc{
+    padding: 58px 20px;
+    width: 850px;
+    height: 192px;
+    text-align: center;
+    margin: auto auto;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0.5px;
+    
+}
+
+.About_disc p{
+   font-size: 17px;
+}
+

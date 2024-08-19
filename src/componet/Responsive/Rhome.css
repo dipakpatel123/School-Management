@@ -1,0 +1,242 @@
+@media only screen and (max-width: 1024px) {
+
+
+    /* navabar */
+    .navbar {
+
+        width: 70vw !important;
+
+    }
+
+    .subheader {
+
+
+        width: 80vw !important;
+
+    }
+
+    /* subheader */
+
+    .subheader_dic p {
+        line-height: 25px !important;
+    }
+
+    .subheader_dic {
+
+        margin-left: 15px !important;
+
+
+    }
+
+    .blog_card1,
+    .blog_card2,
+    .blog_card3 {
+
+        width: 300px !important;  
+        height: 300px !important;
+        
+
+
+    }
+
+
+    /* Blog */
+
+
+    .card_info h4 {
+
+        font-size: 20px;
+
+    }
+
+    .card_info p {
+
+        font-size: 15px;
+    }
+
+
+    /* gallery */
+
+
+
+    .btn_gallery {
+
+        font-size: 10px !important;
+
+    }
+
+    .gallery_card img {
+
+
+        height: 250px !important;
+
+    }
+
+
+    /* footer */
+
+    .text1 {
+
+        font-size: 16px !important;
+        line-height: 23px !important;
+        letter-spacing: 0.2px !important;
+
+    }
+
+    .text2 {
+
+        font-size: 16px !important;
+        line-height: 23px !important;
+        letter-spacing: 0.2px !important;
+
+
+
+    }
+
+
+
+
+    .foot_nav ul li {
+
+        font-size: 20px !important;
+
+        line-height: 36px !important;
+        letter-spacing: 0.20000000298023224px !important;
+
+
+
+    }
+
+    .innerfoot_header{
+         font-size: 20px !important;
+     }
+
+
+     .header_disc h3{
+       
+        font-size: 23px !important;
+        
+    }
+    .header_disc h4{
+         
+         font-size: 22px !important;
+        
+    }
+
+
+
+
+
+
+
+
+    .css-i4bv87-MuiSvgIcon-root {
+        font-size: 33px !important;
+    }
+
+
+
+    .bottom-footer h4 {
+        font-size: 23px !important;
+    }
+
+}
+
+
+@media only screen and (max-width: 768px) {
+    .navbar{
+        width: 87vw !important;
+    }
+
+    .inner_subheader{
+         flex-wrap: wrap !important;
+        
+     }
+
+     .subheader_dic{
+        width: 550px !important;
+        height: 264px;
+        border-radius: 4px 0px 0px 0px;
+     
+    
+     }
+    
+     .subheader_dic h1{
+         
+       font-size: 28px;
+        font-weight: 700;
+        line-height: 48px;
+        letter-spacing: 0.30000001192092896px;
+        text-align: left;
+        
+    
+     }
+
+
+     /* blog */
+
+     .blog_div{
+        background: white !important;
+        /* height: 550px; */
+ 
+         
+        
+    }
+
+    /* gallery */
+
+
+    .gallery_card{
+     
+    
+         
+        grid-template-columns: auto auto !important;
+        
+      
+       
+         
+    }
+}
+
+@media only screen and (max-width: 414px) {
+
+    .gallery_card{
+     
+    
+       display: flex !important;
+        flex-direction: column !important;
+        
+      
+       
+         
+    }
+        
+}
+
+
+@media only screen and (max-width: 375px) {
+    .subheader_dic h1 {
+        font-size: 23px !important;
+        font-weight: 700 !important;
+        line-height: 37px !important;
+        letter-spacing: 0.10000001192092896px !important;
+         
+    }
+
+    .gallery_card{
+     
+    
+        display: flex;
+        flex-direction: column;
+      
+       
+         
+    }
+
+    .header_disc h3{
+       
+        font-size: 15px !important;
+        width: 300px !important;
+        
+    }
+}

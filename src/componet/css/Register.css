@@ -1,0 +1,203 @@
+ .register_page{
+    
+    width: 90%;
+    height: 880px;
+    margin: 0 auto;
+    display: flex;
+    
+}
+
+.Rreg_img img{
+    height: 890px;
+    width: 100%;
+}
+
+ 
+.Rleft{
+     
+    background:#233255BA;
+    width: 40vw;
+    height: 890px;
+}
+
+
+.Rright{
+    
+    background: pink;
+    width: 60vw;
+    height: 890px;
+    
+}
+
+.leftreg_form{
+    width: 90%;
+    margin: 0 auto;
+}
+
+ .reg_logo img{
+    height: 130px;
+    width: 230px;
+ }
+
+ .Reg_Form{
+    display: block !important;
+ }
+
+ 
+
+ .leftreg_form{
+    width: 90%;
+    margin: 0 auto;
+ }
+
+ .name_filed{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+ }
+ 
+ 
+ 
+
+ .fname{
+    height: 71px;
+    width: 300px;
+    font-size: 22px;
+    padding: 17px;
+    border: none;
+    border-radius: 10px;
+}
+.lname{
+    height: 71px;
+    width: 300px;
+    font-size: 22px;
+    padding: 17px;
+    border: none;
+    border-radius: 10px;
+}
+
+.email{
+    width: 100%;
+    height: 71px;
+    margin-top: 15px;
+    border: none;
+    padding: 17px;
+    border-radius: 10px;
+    font-size: 22px;
+}
+
+.password{
+    width: 84% !important;
+    height: 50px;
+    margin-top: 10px;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+/* button:not(:disabled) {
+    font-size: 1.4rem;
+    cursor: pointer;
+    padding: 10px 17px;
+    border-radius: 5px;
+    height: 71px;
+} */
+
+.contact_filed{
+    display: flex;
+    justify-content: space-between;
+ }
+
+.phone{
+    height: 71px;
+    width: 45%;
+    margin-top: 15px;
+    padding: 17px;
+    border: none;
+    border-radius: 10px;
+    font-size: 22px;
+   
+}
+.token{
+    height: 71px;
+    width: 45%;
+    margin-top: 15px;
+    padding: 17px;
+    border: none;
+    border-radius: 10px;
+    font-size: 22px;
+   
+}
+
+.gender{
+   
+    display: flex;
+    width: 40%;
+    justify-content: space-evenly;
+    justify-content: space-evenly;
+    align-items: center;
+     
+}
+
+.selectgen{
+margin-right: 3px;
+ 
+}
+
+ 
+
+.gender{
+    flex-wrap: nowrap;
+}
+
+.dep_option{
+    color: grey;
+    height: 71px;
+    width: 100%;
+    margin-top: 10px;
+    padding: 17px;
+    border: none;
+    border-radius: 10px;
+    font-size: 22px;
+}
+
+.gendername{
+    font-size: 20px;
+    
+}
+ 
+
+.reg_btn{
+    display: flex;
+    justify-content:space-around !important;
+    margin-top: 30px;
+   
+    
+
+}
+
+.gendername{
+    font-size: 25px;
+}
+
+.reg_btn button{
+    background: linear-gradient(90deg, rgba(127, 189, 228, 0.6) 3.42%, #F6AD2B 51.37%, rgba(127, 189, 228, 0.82) 104.79%);
+    padding: 5px 28px;
+    font-size: 22px;
+    opacity: 0.8;
+    border-radius: 8px;
+}
+ 
+.reg_btn .reset{
+    background: linear-gradient(90deg, rgba(127, 189, 228, 0.6) 3.42%, #F6AD2B 51.37%, rgba(127, 189, 228, 0.82) 104.79%);
+    padding: 5px 35px;
+    font-size: 22px;
+    opacity: 0.8;
+    border-radius: 8px;
+}  
+
+
+
+ 
+

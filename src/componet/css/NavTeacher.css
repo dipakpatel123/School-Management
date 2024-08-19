@@ -1,0 +1,118 @@
+
+.teacher_content{
+    width: 90vw;
+    margin: 0 auto;
+    margin-top: 40px;
+     
+}
+
+.teacher_data{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 20px;
+    /* width: 60vw; */
+    /* margin: 0 auto; */
+    margin-top: 130px;
+}
+
+.teacher_background{
+    width: 300px;
+    height: 385px;
+    border-radius: 5px 0px 0px 0px;
+    box-shadow: 1px 1px 50px;
+    /* filter: drop-shadow(5px 5px 5px); */
+    padding: 20px;
+    margin: 0 auto;
+    /* border: 1px solid #949494; */
+    
+
+}
+.teacher_img{
+    height: 200px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+.teacher_img img{
+    border-radius: 10px;
+}
+
+.teacher_info{
+    margin-top: 15px;
+}
+
+ .p{
+    font-weight: bold;
+
+ }
+
+ .span{
+    font-weight: normal;
+ }
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* search bar css */
+
+
+.form-control{
+    width: 380px;
+}
+
+button.btn.btn-outline-success {
+    border: 2px solid;
+}
+
+form {
+    display: flex;
+    justify-content: flex-end;
+    width: 90%;
+}
+
+input.form-control.me-2 {
+    height: 47px;
+    /* padding-bottom: 1px; */
+    margin-top: 22px;}
+    
+    button.btn.btn-outline-success {
+        border: 2px solid;
+        height: 47px;
+    }

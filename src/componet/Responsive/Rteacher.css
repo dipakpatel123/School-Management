@@ -1,0 +1,41 @@
+@media only screen and (max-width: 1024px) {
+    
+    .teacher_background {
+        width: 286px !important;
+        height: 377px !important ;
+        border-radius: 5px 0px 0px 0px !important;
+        padding: 18px !important;
+
+    }
+
+    .teacher_img{
+        height: 180px !important ;
+       
+    
+    }
+
+    
+}
+
+
+@media only screen and (max-width: 768px) {
+
+    .teacher_data{
+        display: grid;
+        grid-template-columns: auto auto !important;
+        gap: 20px;
+        /* width: 60vw; */
+        /* margin: 0 auto; */
+        margin-top: 130px;
+    }
+}
+@media only screen and (max-width: 375px) {
+
+    .teacher_data{
+        display: flex;
+        flex-wrap: wrap;
+        
+    }
+}
+
+

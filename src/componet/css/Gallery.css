@@ -1,0 +1,49 @@
+.main_gallery{
+    /* height: 724px; */
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 40px;
+    
+     
+}
+
+
+.gallery_card{
+     
+    
+    display: grid;
+    gap: 15px 10px;
+    grid-template-columns: auto auto auto;
+    padding-top: 3vh;
+  
+   
+     
+}
+.gallery_card img {
+    width: 100%;
+    border-radius: 8px;
+    height: 280px;
+ 
+}
+
+.heading_gallery{
+    text-align: center;
+    padding-top: 3vh;
+}
+
+.btn_gallery{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    margin-top: 25px;
+}
+
+button:not(:disabled) {
+    font-size: 1.4rem;
+    cursor: pointer;
+    padding: 5px 17px;
+    border-radius: 5px;
+}
+
+
